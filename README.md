@@ -23,7 +23,6 @@ npm run dev
 ```
 4. Project will running on http://localhost:5173
 
-
 ### With Docker
 1. Clone this project
 ```
